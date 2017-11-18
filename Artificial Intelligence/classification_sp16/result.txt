@@ -1,0 +1,25 @@
+Starting on 11-20 at 19:53:55
+
+Question q9
+===========
+
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+*** FAIL: Terminated with a string exception.
+
+### Question q9: 0/5 ###
+
+
+Finished at 19:53:59
+
+Provisional grades
+==================
+Question q9: 0/5
+------------------
+Total: 0/5
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
