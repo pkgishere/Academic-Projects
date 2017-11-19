@@ -1,0 +1,21 @@
+﻿  ffmpeg.cpp
+c:\users\prashant garg\dropbox\graduation asu\multi media web databases\project\ffmpeg\ffmpeg\dev\include\libavutil\common.h(162): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\prashant garg\dropbox\graduation asu\multi media web databases\project\ffmpeg\ffmpeg\dev\include\libavutil\common.h(173): warning C4244: 'return': conversion from 'int' to 'int8_t', possible loss of data
+c:\users\prashant garg\dropbox\graduation asu\multi media web databases\project\ffmpeg\ffmpeg\dev\include\libavutil\common.h(184): warning C4244: 'return': conversion from 'int' to 'uint16_t', possible loss of data
+c:\users\prashant garg\dropbox\graduation asu\multi media web databases\project\ffmpeg\ffmpeg\dev\include\libavutil\common.h(195): warning C4244: 'return': conversion from 'int' to 'int16_t', possible loss of data
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(76): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 9 has type 'const uint64_t'
+  c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(76): note: consider using '%lld' in the format string
+  c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(76): note: consider using '%I64d' in the format string
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(81): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 9 has type 'const uint64_t'
+  c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(81): note: consider using '%lld' in the format string
+  c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(81): note: consider using '%I64d' in the format string
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(29): warning C4100: 'cached': unreferenced formal parameter
+c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(97): warning C4459: declaration of 'fmt_ctx' hides global declaration
+  c:\users\prashant garg\documents\visual studio 2015\projects\ffmpeg\ffmpeg\ffmpeg.cpp(14): note: see declaration of 'fmt_ctx'
+  ffmpeg.vcxproj -> C:\Users\Prashant garg\Documents\Visual Studio 2015\Projects\ffmpeg\Debug\ffmpeg.exe
+  ffmpeg.vcxproj -> C:\Users\Prashant garg\Documents\Visual Studio 2015\Projects\ffmpeg\Debug\ffmpeg.pdb (Full PDB)

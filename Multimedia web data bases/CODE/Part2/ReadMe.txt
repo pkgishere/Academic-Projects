@@ -1,0 +1,16 @@
+This program Generates sift vectors and will tell you in which cell does it belong to.
+
+
+
+Steps for Running the code : -
+1. open the  MAIN_Q2 file 
+2. edit the cd and path according to the location path of folder contianing video(s).
+3. Run the code 
+4. provide the input R.
+5. An output file Phase1Q2.txt will be generated in pwd.
+
+
+Note:- You need to add the path to functions FetchNameFromExtension and HistogramByCell in it.
+
+FetchNameFromExtension(takes input extension of files and return you the list of files with that extension in current working diresctory)
+
